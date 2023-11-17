@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAOtgmpmHko0CqHzGa/SIUeTRnyH8PhhZlznJ2KPKu50VZRup+l91YficYGlherEBEXGslY1Cw8ogjqVZFXMrw==",
+  "success": true,
+  "projectFilePath": "/Users/camryncimber/Desktop/Fall 2023/CIS4930/event/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/camryncimber/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/camryncimber/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.0/amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "/Users/camryncimber/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/camryncimber/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/camryncimber/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.24/microsoft.netcore.app.crossgen2.osx-arm64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
